@@ -1,4 +1,4 @@
-# AItools
+# My AI tools
 A place where I store my favorite AI tools and their configuration. In general I prefer tools that I can run locally. My main points of interest are chatbots for document management, text processing in OnlyOffice, basic Python coding in VS Code and image manipulation. Those are running on my daily laptop (Win 11, Intel i7 with integrated XE Graphics, 16 GB RAM) and/or my dev machine (Linux Mint, DELL Precision 7530, 16 GB RAM) 
 
 # Current Setup
