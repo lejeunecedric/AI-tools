@@ -1,5 +1,5 @@
 # My AI tools
-A place where I store my favorite AI tools and their configuration. In general I prefer tools that I can run locally. My main points of interest are chatbots for document management, text processing in OnlyOffice, basic Python coding in VS Code and image manipulation. Those are running on my daily laptop (Win 11, Intel i7 with integrated XE Graphics, 16 GB RAM) and/or my dev machine (Linux Mint, DELL Precision 7530, 16 GB RAM) 
+A place where I store my favorite AI tools and their configuration. In general I prefer tools that I can run locally. My main points of interest are chatbots for document management, text processing in OnlyOffice, basic Python coding in VS Code and image manipulation. Those are running on my daily laptop (Win 11, Intel i7 with integrated XE Graphics, 16 GB RAM) and/or my dev machine (Linux Mint, DELL Precision 7520, 16 GB RAM, i7 NVidia Quadro M220 with 4GB RAM) or my demo machine (Win 11, AMD Ryzen AI 9 HX370, 32 GB RAM)
 
 # Current Setup
 ## LM Studio
@@ -11,6 +11,9 @@ A tool to run LLMs locally, can run multiple at the same time. I prefer it over 
 
 Local app for Windows, Mac and Linux
 
+## Take a look at my tests on Small LLM models for deeper considerations on models and inference
+https://github.com/lejeunecedric/Small-LLM-tests/tree/main
+
 ## Anything LLM
 https://anythingllm.com
 
@@ -20,14 +23,12 @@ An advance chatbot interface that manages LLM providers, can run its own thru a 
 
 Runs locally in a container, they also provide a setup for Mac and Windows.
 
-## Continue
-https://docs.continue.dev/
+## OpenCode
+https://www.opencode.ai
 
-License : Apache 2.0
+License : MIT
 
-An extension for VS Code where you can connect any LLM; including the one you run locally with LM Studio or Ollama.
-
-Continue is a full CI/CD environment, I only use the VS module.
+Great tool for vibe coding, nice autonomous GUI where you can do inline context chat, can connect to many providers and of course local inference engines such as LM Studio. An extension for VS Code that gets you the tool in the console and there are also unofficial GUIs that look more polished. 
 
 ## n8n
 https://n8n.io
