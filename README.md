@@ -11,7 +11,7 @@ A tool to run LLMs locally, can run multiple at the same time. I prefer it over 
 
 Local app for Windows, Mac and Linux
 
-## Take a look at my tests on Small LLM models for deeper considerations on models and inference
+Take a look at my tests on Small LLM models for deeper considerations on models and inference
 https://github.com/lejeunecedric/Small-LLM-tests/tree/main
 
 ## Anything LLM
